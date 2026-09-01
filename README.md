@@ -1,4 +1,14 @@
-## Hi there 👋
+# Abdelkader Kiari
+
+Senior protocol engineer. Owner of the smart contract layer at a $110M+ Coinbase backed DeFi protocol: architecture and implementation, empty repo to audited mainnet.
+
+15 contracts on mainnet, in production with no recorded exploit. Third party audit reports are public: https://github.com/Portaldefi/security-audit-report
+
+I also conduct security audits, including a full audit of an institutional OTC desk in production.
+
+Production work lives in private protocol repos. Open reference implementations of settlement and matching primitives are landing here.
+
+Writing: https://www.kiari-abdelkader.com · https://x.com/Al_Sifr_ ·
 
 <!--
 **KIARI-Abdel/KIARI-Abdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
