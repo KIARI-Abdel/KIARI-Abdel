@@ -1,4 +1,4 @@
-# Abdelkader Kiari
+# Hi there 👋, I'm Abdelkader Kiari
 
 Senior protocol engineer. Owner of the smart contract layer at a $110M+ Coinbase backed DeFi protocol: architecture and implementation, empty repo to audited mainnet.
 
