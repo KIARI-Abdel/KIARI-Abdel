@@ -6,7 +6,7 @@ Senior protocol engineer. Owner of the smart contract layer at a $110M+ Coinbase
 
 I also conduct security audits, including a full audit of an institutional OTC desk in production.
 
-Writing: https://www.kiari-abdelkader.com · https://x.com/Al_Sifr_ 
+Writing: https://www.kiari-abdelkader.com · https://x.com/Al_Sifr_. 
 
 <!--
 **KIARI-Abdel/KIARI-Abdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
